@@ -1,5 +1,6 @@
-<img src="https://github.com/INFIN17Y/INFIN17Y/blob/main/coverimg.gif" alt="cover photo">
+
 # 💫 Hi ! There, I'm Anuhas Rajapaksha <hr>
+<img src="https://github.com/INFIN17Y/INFIN17Y/blob/main/coverimg.gif" alt="cover photo">
 🔭 I’m currently studying at the University of Ruhuna<br>👯 I’m looking to collaborate on front-end and back-end projects<br>🌱 I’m currently learning ReactJs, NodeJs, Angular, SpringBoot and Flutter<br>💬 Ask me about html, css, javascript, etc..<br>💬 How to reach me: kavinduanuhas398@gmail.com
 
 
