@@ -1,3 +1,4 @@
+<img src="" alt="cover photo">
 # 💫 Hi ! There, I'm Anuhas Rajapaksha <hr>
 🔭 I’m currently studying at the University of Ruhuna<br>👯 I’m looking to collaborate on front-end and back-end projects<br>🌱 I’m currently learning ReactJs, NodeJs, Angular, SpringBoot and Flutter<br>💬 Ask me about html, css, javascript, etc..<br>💬 How to reach me: kavinduanuhas398@gmail.com
 
